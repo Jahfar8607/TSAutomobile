@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopSpeed.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f3d9c08d94364245f91c57a457398a1e1547daf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc605e60a62f0788942565812be84f730e30e4f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopSpeed.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopSpeed.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jahfar\\Projects\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj": {}
+    "D:\\Jahfar\\Projects\\Github\\TopSpeedAutomobile\\TSAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj": {}
   },
   "projects": {
-    "D:\\Jahfar\\Projects\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj": {
+    "D:\\Jahfar\\Projects\\Github\\TopSpeedAutomobile\\TSAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jahfar\\Projects\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj",
+        "projectUniqueName": "D:\\Jahfar\\Projects\\Github\\TopSpeedAutomobile\\TSAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj",
         "projectName": "TopSpeed.Web",
-        "projectPath": "D:\\Jahfar\\Projects\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj",
+        "projectPath": "D:\\Jahfar\\Projects\\Github\\TopSpeedAutomobile\\TSAutomobile\\TopSpeed.Web\\TopSpeed.Web.csproj",
         "packagesPath": "C:\\Users\\jahfa\\.nuget\\packages\\",
-        "outputPath": "D:\\Jahfar\\Projects\\TopSpeedAutomobile\\TopSpeedAutomobile\\TopSpeed.Web\\obj\\",
+        "outputPath": "D:\\Jahfar\\Projects\\Github\\TopSpeedAutomobile\\TSAutomobile\\TopSpeed.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
